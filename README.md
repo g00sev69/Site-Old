@@ -9,8 +9,6 @@
 ## What is Site?
 
 <p>Site is a community website designed to be built by and maintained by the Github community.</p>
-<br>
-<br>
 
 <div align="center">
 
@@ -20,4 +18,8 @@
 
 <p><sub>Failure to follow these guidelines will result in your pull request being denied.</sub></p>
 
-- [Do not edit the CSS file. It is good the way it is.]
+- Do not edit the CSS file. It is good the way it is.
+- Do not delete what someone else has made.
+- Make sure you are contributing in the correct way (see [here](https://github.com/firstcontributions/first-contributions))
+- Be respectful to everyone.
+- Be creative and have fun!
