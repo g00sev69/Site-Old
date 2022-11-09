@@ -10,11 +10,7 @@
 
 <p>Site is a community website designed to be built by and maintained by the Github community.</p>
 
-<div align="center">
-
 ## Guidelines
-
-</div>
 
 <p><sub>Failure to follow these guidelines will result in your pull request being denied.</sub></p>
 
