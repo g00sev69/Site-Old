@@ -8,7 +8,7 @@
 
 ## What is Site?
 
-<p>Site is a community website designed to be built by and maintained by the Github community.</p><p>You can view the community portion of the site <a target="_blank" href="https://animeishot.github.io/Site/static/index.html">here</a>, this is just the readme.</p>
+<p>Site is a community website designed to be built by and maintained by the Github community.</p><p>You can view the community portion of the site <a target="_blank" href="https://animeishot.github.io/Site/static/index.html">here</a>, this is just the Readme.</p>
 
 ## Guidelines
 
